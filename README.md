@@ -65,9 +65,11 @@
 ## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="www.linkedin.com/in/kamsiyochukwu-obijiofor-b23087265"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+  <a href="https://www.linkedin.com/in/kamsy-obijiofor-b23087265"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
   <a href="mailto:kobijiofor@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
   <a href="https://kamsi26.github.io/Portfolio-Website/#about"><img src="https://img.icons8.com/color/48/000000/domain.png"/></a>
+  <a href="https://x.com/justderick26"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
+  <a href="https://www.instagram.com/_justderick/"><img src="https://img.icons8.com/color/48/000000/instagram-new.png"/></a>
 </p>
 
 ---
