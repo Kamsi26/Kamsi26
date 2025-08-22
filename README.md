@@ -9,8 +9,8 @@
 <img align="right" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="300"/>
 
 - 🖥️ Skilled in **network operations, system hardware, backend & frontend development**  
-- 📚 Dedicated **educator** – teaching computer basics, hardware, front-end web dev, and data science  
-- 🐍 Exploring **Python, ML, and Jupyter notebooks** for data-driven insights  
+- 📚 Dedicated **educator** – teaching computer basics, hardware, front-end web dev, CCNA, CCNP and data science  
+- 🐍 Exploring **Python and Machine Learning** for data-driven insights  
 - 🌍 Building **digital marketplaces & SaaS platforms**  
 - 🎨 Passionate about **clean UI/UX, animations, and impactful problem-solving**  
 
@@ -44,7 +44,7 @@
 
 ### 🔥 KorrektFarmer – Main  
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" width="250"/>  
-🌱 A **digital marketplace** with:  
+🌱 A digital marketplace with:  
 ✔️ Multi-user roles (buyers, sellers, admins)  
 ✔️ Premium subscription paywall  
 ✔️ Seller dashboards & analytics  
@@ -53,7 +53,7 @@
 ---
 
 ### 🌐 Alana Green Website  
-> 🚀 A modern, visual-heavy, **React-based site** with animations, interactive UI, and backend email support.  
+> 🚀 A modern, visual-heavy, with animations, interactive UI, and backend email support.  
 
 ---
 
@@ -62,29 +62,12 @@
 
 ---
 
-## 📊 GitHub Stats & Activity  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kamsi-obijiofor&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamsi-obijiofor&theme=radical" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamsi-obijiofor&layout=compact&theme=radical" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kamsi-obijiofor&theme=radical&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 ## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="#"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-  <a href="mailto:kamsi@example.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
-  <a href="#"><img src="https://img.icons8.com/color/48/000000/domain.png"/></a>
+  <a href="www.linkedin.com/in/kamsy-obijiofor-b23087265"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+  <a href="mailto:kobijiofor@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
+  <a href="https://kamsi26.github.io/Portfolio-Website/#about"><img src="https://img.icons8.com/color/48/000000/domain.png"/></a>
 </p>
 
 ---
