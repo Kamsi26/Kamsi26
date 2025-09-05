@@ -11,8 +11,7 @@
 - 🖥️ Skilled in **network operations, system hardware, backend & frontend development**  
 - 📚 Dedicated **educator** – teaching computer basics, hardware, front-end web dev, CCNA, CCNP and data science  
 - 🐍 Exploring **Python and Machine Learning** for data-driven insights  
-- 🌍 Building **digital marketplaces & SaaS platforms**  
-- 🎨 Passionate about **clean UI/UX, animations, and impactful problem-solving**  
+- 🎨 Passionate about **clean UI/UX, and impactful problem-solving**  
 
 ---
 
@@ -42,7 +41,7 @@
 
 ## 📌 Featured Projects  
 
-### 🔥 KorrektFarmer – Main  
+### 🔥 KorrektFarmer  
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" width="250"/>  
 🌱 A digital marketplace with:  
 ✔️ Multi-user roles (buyers, sellers, admins)  
