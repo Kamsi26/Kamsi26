@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h1 align="center">👋 Hi, I'm <span style="color:#f54291">Kamsiyochukwu Obijiofor</span></h1>  
-<h3 align="center">💻 IT Professional | Educator | Web Developer | Data Scientist</h3>
+<h3 align="center">💻 IT Professional | System Administrator | Network Administrator | Front-end Web Developer | Data Scientist | ML Practitioner </h3>
 
 ---
 
@@ -52,12 +52,7 @@
 ---
 
 ### 🌐 Alana Green Website  
-> 🚀 A modern, visual-heavy, with animations, interactive UI, and backend email support.  
-
----
-
-### 🛒 Premium Market Platform  
-> 💳 Subscription-based **e-commerce platform** with Paystack integration, Firestore sync, and premium cart access.  
+> 🚀 A modern, visual-heavy, with animations, interactive UI, and backend email support.
 
 ---
 
