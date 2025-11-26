@@ -17,9 +17,32 @@
 
 ## 🛠️ Tech Stack & Tools  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,nodejs,firebase,python,sklearn,git,github,vscode" />
-</p>
+<section id="tech-icons" class="py-5">
+  <div class="container text-center">
+    <h2 class="mb-4">Tech Stack & Tools</h2>
+    <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+      <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" height="50">
+      <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" height="50">
+      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50">
+      <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50">
+      <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="50" height="50">
+      <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="50" height="50">
+      <img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" width="50" height="50">
+      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50">
+      <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="50" height="50">
+      <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="50" height="50">
+      <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50">
+      <img src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-learn" width="50" height="50">
+      <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50">
+      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50">
+      <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="50" height="50">
+      <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50" height="50">
+      <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="50" height="50">
+      <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="50" height="50">
+    </div>
+  </div>
+</section>
+
 
 ---
 
